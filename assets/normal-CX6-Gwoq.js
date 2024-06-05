@@ -1,1 +1,0 @@
-import{_ as e,o as a,a as o}from"./index-LE9cNZRj.js";const c={},s={class:"game arkanoid"};function t(n,r){return a(),o("div",s," . ")}const d=e(c,[["render",t],["__scopeId","data-v-f86b763f"]]);export{d as default};
