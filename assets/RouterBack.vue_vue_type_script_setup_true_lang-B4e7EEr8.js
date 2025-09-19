@@ -1,1 +1,0 @@
-import{S as o}from"./index-tOZTxT1S.js";import{d as n,c as r,b as s,a as c,t as i,o as p}from"./index-DCu2mcfM.js";const k=n({__name:"RouterBack",props:{content:{type:String,default:"Back"}},setup(t){return(a,e)=>(p(),r("div",{class:"details-back",onClick:e[0]||(e[0]=l=>a.$router.back())},[s(o,{name:"arrowLeft",size:"16"}),c("span",null,i(t.content),1)]))}});export{k as _};
